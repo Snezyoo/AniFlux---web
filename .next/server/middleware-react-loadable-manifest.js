@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\home\\\\page.js -> @/components/sections/HeroBanner\":{\"id\":\"app\\\\home\\\\page.js -> @/components/sections/HeroBanner\",\"files\":[\"static/chunks/_app-pages-browser_components_sections_HeroBanner_jsx.js\"]}}"
